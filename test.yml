@@ -1,1 +1,4 @@
 love: java
+spring:
+  profiles:
+    active: dev
