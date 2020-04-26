@@ -1,0 +1,4 @@
+firstName: Zhang
+spring:
+  profiles:
+    active: prod
